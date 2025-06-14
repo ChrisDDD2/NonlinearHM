@@ -1,4 +1,5 @@
 # NonlinearHM
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15665163.svg)](https://doi.org/10.5281/zenodo.15665163)
 
 This repository contains a 1D **Nonlinear Harmonic Model** and a **Linearized Harmonic Model**, developed to support a new interpretation framework for understanding nonlinear tidal dynamics.
 
@@ -30,6 +31,7 @@ This script runs a **linearized** model using the output from the nonlinear mode
 
 ## Citation
 
-This model and dataset are part of an ongoing research project.  
-A corresponding publication is currently under review.  
-Once published, citation information will be added here.
+If you use this model or dataset, please cite:
+
+> Dong H. *NonlinearHM – 1D nonlinear and linearized tidal harmonic models*. Zenodo. [https://doi.org/10.5281/zenodo.15665163](https://doi.org/10.5281/zenodo.15665163)
+
