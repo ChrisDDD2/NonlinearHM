@@ -15,6 +15,7 @@ This script implements a 1D nonlinear harmonic model based on the shallow water 
   `initial_distribution_variables_N30-alpha1-beta1.mat`  
   corresponds **only** to the `α = 1`, `β = 1` case.  
   Thus, for other scenarios, the initial conditions still need uploading, be careful about the loop of alpha-beta used in the code.
+  **It is recommended that users run only the α = 1, β = 1 case as an example!**
 
 ### 2. `Linearized_Harmonic_MarsdiepVlie.py`
 
